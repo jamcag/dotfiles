@@ -1,0 +1,9 @@
+{
+    "files.insertFinalNewline": true,
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[cpp]": {
+        "editor.tabSize": 2,
+    }
+}
